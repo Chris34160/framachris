@@ -39,7 +39,7 @@ Retrouvez les détails sur [https://beta.framalibre.org/mini-site](https://beta.
     </div>
   </article>
 
-##Je veux protéger mes correspondances
+# Je veux protéger mes correspondances
 
   <article class="framalibre-notice">
     <div>
@@ -70,7 +70,7 @@ Retrouvez les détails sur [https://beta.framalibre.org/mini-site](https://beta.
     </div>
   </article>
 
-##Je veux sécuriser mes comptes en ligne
+# Je veux sécuriser mes comptes en ligne
 
   <article class="framalibre-notice">
     <div>
@@ -86,7 +86,7 @@ Retrouvez les détails sur [https://beta.framalibre.org/mini-site](https://beta.
     </div>
   </article>
 
-##Je veux protéger ma navigation sur le Web
+# Je veux protéger ma navigation sur le Web
 
 
   <article class="framalibre-notice">
@@ -119,7 +119,7 @@ Retrouvez les détails sur [https://beta.framalibre.org/mini-site](https://beta.
   </article>
 
 
-## Pour ce que j'aurai filmé
+# Pour ce que j'aurai filmé
 
 <article class="framalibre-notice">
   <div>
@@ -135,7 +135,7 @@ Retrouvez les détails sur [https://beta.framalibre.org/mini-site](https://beta.
   </div>
 </article>
 
-## Pour écouter des émissions
+# Pour écouter des émissions
 
 Quand je fais une pause, j'aime bien écouter un petit podcast avec :
 
