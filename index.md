@@ -3,12 +3,12 @@ title: "Ma page de recommandations"
 order: 0
 in_menu: true
 ---
-Voici une liste de site et/ou d'applications que je peux vous recommander
+Voici une liste de logiciels libres que je peux vous recommander
 
 Retrouvez les détails sur [https://beta.framalibre.org/mini-site](https://beta.framalibre.org/mini-site)
 
 
-# Mes logiciels libres la gestion de l'agenda
+# La gestion de l'agenda
 
   <article class="framalibre-notice">
     <div>
