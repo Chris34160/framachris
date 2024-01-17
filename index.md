@@ -8,7 +8,7 @@ Voici une liste de logiciels libres que je peux vous recommander
 Retrouvez les détails sur [https://beta.framalibre.org/mini-site](https://beta.framalibre.org/mini-site)
 
 
-### <span style="color: #A978CB">_La gestion de l'agenda_</span>
+### <span style="color: #A978CB">_La gestion de l'agenda_</span>  
 
   <article class="framalibre-notice">
     <div>
@@ -39,7 +39,7 @@ Retrouvez les détails sur [https://beta.framalibre.org/mini-site](https://beta.
     </div>
   </article>
 
-### Je veux protéger mes correspondances
+### <span style="color: #A978CB">_Je veux protéger mes correspondances_</span>
 
   <article class="framalibre-notice">
     <div>
@@ -70,7 +70,7 @@ Retrouvez les détails sur [https://beta.framalibre.org/mini-site](https://beta.
     </div>
   </article>
 
-### Je veux sécuriser mes comptes en ligne
+### <span style="color: #A978CB">_Je veux sécuriser mes comptes en ligne_</span>
 
   <article class="framalibre-notice">
     <div>
@@ -86,7 +86,7 @@ Retrouvez les détails sur [https://beta.framalibre.org/mini-site](https://beta.
     </div>
   </article>
 
-### Je veux protéger ma navigation sur le Web
+### <span style="color: #A978CB">_Je veux protéger ma navigation sur le Web_</span>
 
 
   <article class="framalibre-notice">
@@ -119,7 +119,7 @@ Retrouvez les détails sur [https://beta.framalibre.org/mini-site](https://beta.
   </article>
 
 
-### Pour ce que j'aurai filmé
+### <span style="color: #A978CB">_Pour ce que j'ai filmé_</span>
 
 <article class="framalibre-notice">
   <div>
@@ -135,7 +135,7 @@ Retrouvez les détails sur [https://beta.framalibre.org/mini-site](https://beta.
   </div>
 </article>
 
-### Pour écouter des émissions
+### <span style="color: #A978CB">_Pour écouter des émissions_</span>
 
 Quand je fais une pause, j'aime bien écouter un petit podcast avec :
 
