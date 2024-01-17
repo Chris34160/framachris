@@ -19,5 +19,4 @@ in_menu: true
 - et enfin, **publier la page** pour tout enregistrer !
 
 
-![Le bouton se trouve tout en bas d'une notice](https://beta.framalibre.org/images/capture_bouton_copier_minisite.png)
-
+![Le bouton se trouve tout en bas d'une notice](https://beta.framalibre.org/images/capture_bouton_copier_minisite.png) 
